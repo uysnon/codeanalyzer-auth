@@ -73,7 +73,7 @@
     </dependencies>
 
     <build>
-        <finalName>metrics-gateway</finalName>
+        <finalName>codeanalyzer-auth</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
