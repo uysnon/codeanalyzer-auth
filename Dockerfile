@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:debian
+FROM adoptopenjdk/openjdk16:debian
 ADD . /src
 WORKDIR /src
 EXPOSE 80
